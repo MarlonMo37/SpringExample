@@ -1,7 +1,6 @@
 package com.hcl.model;
 
-public class Vehicle {
-	
+public interface Vehicle {
 	public int speed();
 
 }
